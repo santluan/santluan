@@ -1,6 +1,6 @@
 # Luan Santos
 
-Economist and Data Analyst, passionate in data analysis and science since the first period. I really like to code in R and Python, I'm also a Data Science enthusiast and interested in Financial Market.
+Economist and Data Analyst, passionate in data analysis and science since the first period. I like to code in R and Python, I'm also a Data Science enthusiast and interested in Financial Market.
 At my free time, I read, watch movies and travel.
 
 
